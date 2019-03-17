@@ -1,2 +1,6 @@
 This is the First Git Hub File Created by Kuljit
+<<<<<<< HEAD
 This is a new line created by Vamsi
+=======
+This is the First Git Hub File Modified by Geeta Pillutla
+>>>>>>> ce152f496283fd5ff62e7b1911e85b76139205a1
