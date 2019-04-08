@@ -1,9 +1,13 @@
 package javabasics;
 
 public class FirstJavaprogram {
-	public static void main(String[] priyanka) {
-		System.out.println("iam priyanka");} {
-		
+	public static void main(String[] args) {
+		System.out.println("iam priyanka");
 	}
 
-}
+	
+
+	}
+
+
+
