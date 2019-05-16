@@ -1,1 +1,70 @@
 Nivasu1234!
+Configure git desktop
+Name: Vasuvasu
+email:Vjla123@yahoo/N1234!
+Repository:testing
+Clone:haigopi/testing
+Repository URL: hubot/cool-repo
+Remote:
+Local: c:/u/vasu/doc/github/testing
+
+EXPLORE OPEN: Window E
+task Manager(if system not respond): Ctrl+Shift Esc button
+CLR--vasu. git help -a (we can see lot of commands)
+
+
+
+
+
+
+GIT HELP -a
+SEE 'git help <command>' Read about specific subcommand
+
+MAIN PORCELAIN 39COMMANDS
+1.ADD
+2. AM
+3. ARCHIEVE
+4. BISECT
+5. BRANCH
+6. BUNDLE
+7. CHECKOUT
+8. CHERRY-PICK
+9. CITOOL
+10. CLONE
+11.
+
+ANCILLIARY 11.commands/MANUIPULATORS
+1. CONFIG
+
+
+ANCILLIARY 14 COMMANDS/INTERROGATORS
+1.ANNOTATE
+
+INTERACTING WITH OTHERS 10commands
+1. archimport
+2.cvsexportcommit
+3.svn
+
+
+LOW-LEVEL 19COMMANDS/MANIPULATORS
+1.APPLY
+2.
+
+
+LOW LEVEL 20COMMANDS/ INTERROGATORS
+1.CAT-FILE
+
+
+LOW LEVEL 5COMMANDS/SYNCHING REPOSITORIES
+1. CHECK-ATTR
+
+
+LOW LEVEL 15COMMANDS / INTERNAL HELPERS
+1.
+
+EXTERNAL COMMANDS
+1. FLOW
+2. LFS
+
+
+AFTER THESE COMMANDS EXIGUTED, ITS NOT COMING TO CLR OR DIRECTORY OR PATH
